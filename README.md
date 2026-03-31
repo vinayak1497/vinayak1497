@@ -10,22 +10,13 @@
 - 🎓 **Education:** 3rd-Year Computer Engineering with a **9.92 CGPA**.
 - 👨‍💻 **Currently:** Building agentic AI websites, working on an Attendance Anomaly System, and prepping for GSSoC '25.
 - 🤝 **Leadership:** Leading operations at GDGoC APSIT and Co-founder of *Friendly Faces* (driving blood donation and flood relief efforts).
-- 🏆 **Recognitions:** Thane Talent Hunt Winner and Top 100 SOTY.
+- 🏆 **Recognitions:** Thane Talent Hunt Winner and Top 100 Student of the Year.
 
 ### 🛠️ Tech Arsenal
 - **Languages:** C, Java, Python, Dart, HTML, CSS, XML, MySQL 
 - **Frameworks:** Flutter, React-Native, Bootstrap 
 - **Cloud & Backend:** Firebase Console, Google Cloud Platform (GCP), REST APIs
-- **Tools:** Git, GitHub, Postman, Vercel, Android Studio
-
-### 📱 Featured Projects
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| 🌾 **KISAN** | AI assistant helping Indian farmers with crop diagnosis and weather forecasts. | Flutter, Dart, Gemini API |
-| 💰 **RupAI** | Rural financial literacy app with a gamified interface and an AI finance chatbot. | Java, Firebase, Gemini API |
-| 🍔 **Bits & Bytes** | Smart campus canteen app for digital payments, live tracking, and pre-booking. | Android Studio, Java, XML |
-| 🎵 **Bhajan Mandali** | Devotional music app providing synced lyrics and offline playback. | Flutter, Dart, Firebase |
+- **Tools:** Git, GitHub, Postman, Vercel, Android Studio, n8n
 
 ---
 
